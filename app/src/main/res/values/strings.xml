@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">おくにリスト</string>
+    <string-array name="nation_list">
+        <item>日本</item>
+        <item>中華人民共和国</item>
+        <item>大韓民国</item>
+        <item>アメリカ合衆国</item>
+        <item>ブラジル</item>
+        <item>ドイツ</item>
+        <item>イギリス</item>
+        <item>カナダ</item>
+        <item>ロシア</item>
+        <item>インド</item>
+        <item>バングラデシュ</item>
+        <item>ブータン</item>
+        <item>パプアニューギニア</item>
+        <item>エジプト</item>
+        <item>ノルウェー</item>
+
+    </string-array>
+</resources>
